@@ -6,4 +6,6 @@ This pattern divided the system into three components
 Model stores and retrieve data
 View act as a UI interface that shows data to the users.
 Controller is the intermediatery that handle request( send and recieve requests).
+
+I hava also created a real world MVC based Fitness tracker app.
 Thanks!
