@@ -1,0 +1,4 @@
+data\FitnessRepository.class
+presentation\FitnessApp.class
+Model\FitnessEntry.class
+service\FitnessService.class
